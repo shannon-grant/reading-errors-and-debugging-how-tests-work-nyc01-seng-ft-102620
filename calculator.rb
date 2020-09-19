@@ -1,2 +1,2 @@
 # Add your variables here
-first_number = "shan"
+first_number = 30
